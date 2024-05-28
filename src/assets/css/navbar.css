@@ -1,0 +1,27 @@
+nav {
+  font-weight: 700;
+}
+.nav-brand {
+  margin-left: 18rem;
+  font-weight: 800;
+}
+
+.icons {
+  gap: 1rem;
+  display: flex;
+  margin-right: 2rem;
+}
+.icons span {
+  position: absolute;
+  /* left: 0; */
+  width: 15px;
+  height: 16px;
+  line-height: 15px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 200;
+  font-size: small;
+  background-color: #2ebb77;
+  color: white;
+}
+
